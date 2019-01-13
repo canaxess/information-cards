@@ -6,3 +6,6 @@ Each card has a companion webpage which includes optional collapsed background i
 * [Make video accessible](https://www.canaxess.com.au/Content/download/AccessibleVideo.pdf)
 * [Make forms accessible](https://www.canaxess.com.au/Content/download/AccessibleForms.pdf)
 * [How to make chatbots accessible](https://www.canaxess.com.au/Content/download/AccessibleChatbots.pdf)
+
+## Licence
+This work is licensed under a Creative Commons Attribution-NonCommerical-ShareAlike 3.0 Unported License.
